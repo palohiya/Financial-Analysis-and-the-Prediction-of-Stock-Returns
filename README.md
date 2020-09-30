@@ -29,7 +29,7 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 8. Yes Bank = [YESBANK.NS](https://in.finance.yahoo.com/quote/YESBANK.NS?p=YESBANK.NS&.tsrc=fin-srch)
 
 
-# Conclusion Form Analysis:
+# Conclusion From Analysis:
 * **It can be seen that 'October 2008' have the worst returns for most of the banks.
   Reason behind this is the [Global financial crisis in October 2008](https://en.wikipedia.org/wiki/Global_financial_crisis_in_October_2008).**
 * **Yes Bank stocks would be classified as to be the riskiest over the entire time period.**
