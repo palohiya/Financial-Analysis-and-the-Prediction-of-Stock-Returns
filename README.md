@@ -30,7 +30,7 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
 
 # Conclusion From Analysis:
-* **It can be seen that 'October 2008' have the worst returns for most of the banks.
-  Reason behind this is the [Global financial crisis in October 2008](https://en.wikipedia.org/wiki/Global_financial_crisis_in_October_2008).**
-* **Yes Bank stocks would be classified as to be the riskiest over the entire time period.**
+* **It has seen that 'October 2008' have the worst returns for most of the banks. Reason behind this is the [global financial crisis in October 2008](https://en.wikipedia.org/wiki/Global_financial_crisis_in_October_2008).**
+* **Yes Bank stocks would be classified as to be the riskiest over the entire period. Although it shows good growth from the start of 2014 till the third month on 2019, but then the stocks started to fall.**
+* **Punjab National Bank and Bank of Baroda stocks started to fall from early 2018.**
 * **Kotak Mahindra Bank stocks show the best growth over other banks.**
