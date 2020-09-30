@@ -15,6 +15,8 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
     * matplotlib
     * seaborn
     * pandas visualization
+    * plotly
+    * cufflinks
 
 #### List of Bank:
 1. State Bank of India = [SBIN.NS](https://in.finance.yahoo.com/quote/SBIN.NS?p=SBIN.NS&.tsrc=fin-srch)      
