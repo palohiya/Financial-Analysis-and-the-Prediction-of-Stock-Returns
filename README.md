@@ -1,7 +1,9 @@
 # Financial Analysis of Indian Banks
 
-This data project focuses on exploratory data analysis of Indian bank stock prices from the year **2010** to the year **2020**. 
+This data project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the year **2020**. 
 This project is just meant to practice visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
+
+This project focuses on bank stocks and see how they progressed throughout the [financial crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2020.
 
 Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
