@@ -1,9 +1,9 @@
 # Financial Analysis of Indian Banks
 
-This data project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the year **2020**. 
+This data project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the **Current Date**. 
 This project is just meant to practice visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
 
-This project focuses on bank stocks and see how they progressed throughout the [financial crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2020.
+This project focuses on bank stocks and see how they progressed throughout the [financial crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2020 and during [2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash).
 
 Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
@@ -30,7 +30,7 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
 
 # Conclusion From Analysis:
-* **It has seen that 'October 2008' have the worst returns for most of the banks. Reason behind this is the [global financial crisis in October 2008](https://en.wikipedia.org/wiki/Global_financial_crisis_in_October_2008).**
+* **It has seen that 'March 2020' have the worst returns for most of the banks. Reason behind this is the [2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash).**
 * **Yes Bank stocks would be classified as to be the riskiest over the entire period. Although it shows good growth from the start of 2014 till the third month on 2019, but then the stocks started to fall.**
 * **Punjab National Bank and Bank of Baroda stocks started to fall from early 2018.**
 * **Kotak Mahindra Bank stocks show the best growth over other banks.**
