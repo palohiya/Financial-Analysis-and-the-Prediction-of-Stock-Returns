@@ -35,6 +35,6 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 * **Punjab National Bank and Bank of Baroda stocks started to fall from early 2018.**
 * **Kotak Mahindra Bank stocks show the best growth over other banks.**
 
-# Part 2: Prediction of Stock Returns
+# Part 2: Prediction-of-Stock-Returns
 
 ## In Process...
