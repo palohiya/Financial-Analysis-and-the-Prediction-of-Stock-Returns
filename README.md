@@ -1,4 +1,4 @@
-# Financial Analysis and the Prediction of Stock Returns using Machine Learning
+# Financial Analysis and the Prediction of Stock Returns
 
 # Part 1: Exploratory-Data-Analysis-(EDA)
 
