@@ -34,3 +34,7 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 * **Yes Bank stocks would be classified as to be the riskiest over the entire period. Although it shows good growth from the start of 2014 till the third month on 2019, but then the stocks started to fall.**
 * **Punjab National Bank and Bank of Baroda stocks started to fall from early 2018.**
 * **Kotak Mahindra Bank stocks show the best growth over other banks.**
+
+# Part 2: Prediction of Stock Returns
+
+## In Process...
