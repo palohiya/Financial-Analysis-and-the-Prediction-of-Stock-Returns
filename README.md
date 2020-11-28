@@ -1,3 +1,5 @@
+# Financial Analysis and the Prediction of Stock Returns using Machine Learning
+
 # Part 1: Exploratory-Data-Analysis-(EDA)
 
 This part of project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the year **2020**. 
