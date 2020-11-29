@@ -37,4 +37,8 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
 # Part 2: Prediction-of-Stock-Returns
 
-## In Process...
+1. Stock Prediction with Linear Regression
+2. Stock Prediction with Support Vector Machine
+3. Stock Prediction with Random Forest
+
+**In Progress...**
