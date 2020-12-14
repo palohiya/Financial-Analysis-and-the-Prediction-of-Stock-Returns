@@ -1,6 +1,6 @@
 # Financial Analysis and the Prediction of Stock Returns
 
-# Part 1: Exploratory-Data-Analysis-(EDA)
+# Part 1: Exploratory-Data-Analysis-[(EDA)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Exploratory-Data-Analysis-%28EDA%29.ipynb)'
 
 This part of project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the year **2020**. 
 
@@ -37,8 +37,8 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
 # Part 2: Prediction-of-Stock-Returns
 
-1. Stock Prediction with [Linear Regression](https://github.com/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-(Linear-Regression).ipynb)
-2. Stock Prediction with [Support Vector Machine](https://github.com/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-(Support-Vector-Regressor).ipynb)
-3. Stock Prediction with [Random Forest](https://github.com/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-(Random-Forest-Regressor).ipynb)
+1. Stock Prediction with [Linear Regression](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-%28Linear-Regression%29.ipynb)
+2. Stock Prediction with [Support Vector Machine](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-%28Support-Vector-Regressor%29.ipynb)
+3. Stock Prediction with [Random Forest](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-%28Random-Forest-Regressor%29.ipynb)
 
 **In Progress...**
