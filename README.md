@@ -1,6 +1,6 @@
 # Financial Analysis and the Prediction of Stock Returns
 
-# Part 1: Exploratory-Data-Analysis-[(EDA)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Exploratory-Data-Analysis-%28EDA%29.ipynb)
+# Part 1: Exploratory-Data-Analysis-(EDA) [(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Exploratory-Data-Analysis-%28EDA%29.ipynb)
 
 This part of project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the year **2020**. 
 
