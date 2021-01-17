@@ -2,9 +2,9 @@
 
 # Part 1: Exploratory-Data-Analysis-(EDA) [(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Exploratory-Data-Analysis-%28EDA%29.ipynb)
 
-This part of project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the year **2020**. 
+This part of project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the end of year **2020**. 
 
-This project focuses on bank stocks and see how they progressed throughout the '[2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes)' all the way to early 2020 and during '[2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash)'.
+This project focuses on bank stocks and see how they progressed throughout the '[2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes)' all the way to the end 2020 and during '[2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash)'.
 
 Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
@@ -30,8 +30,9 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
 ## Conclusion From Analysis:
 * **It has seen that 'March 2020' have the worst returns for most of the banks. Reason behind this is the [2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash).**
-* **It can also be observed that 'October 2008' also have the worst returns for some banks. Reason behind this is the [2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes).**
-* **Yes Bank stocks would be classified as to be the riskiest over the entire period. Although it shows good growth from the start of 2014 till the third month on 2019, but then the stocks started to fall.**
+* **It can also be observed that 'October 2008' also have the worst returns for some banks.
+Reason behind this is the [2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes).**
+* **Yes Bank stocks would be classified as to be the riskiest over the entire period. Although it shows good growth from the start of 2014 till the end on 2018, but then the stocks started to fall.**
 * **Punjab National Bank and Bank of Baroda stocks started to fall from early 2018.**
 * **Kotak Mahindra Bank stocks show the best growth over other banks.**
 
