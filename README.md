@@ -4,7 +4,7 @@
 
 This part of the project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the end of the year **2020**. 
 
-This project focuses on bank stocks and see how they progressed throughout the '[2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes)' all the way to the end of 2020 and during '[2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash)'.
+This project focuses on bank stocks and see how they progressed throughout the '[2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes)' to the end of 2020 and during '[2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash)'.
 
 Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
