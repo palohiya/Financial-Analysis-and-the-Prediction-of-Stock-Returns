@@ -1,6 +1,6 @@
-# Financial Analysis and the Prediction of Stock Returns
+# 💹Financial Analysis and the Prediction of Stock Returns💰
 
-# Part 1: Exploratory-Data-Analysis-(EDA) [(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Exploratory-Data-Analysis-%28EDA%29.ipynb)
+# Part 1: 🔎Exploratory-Data-Analysis-(EDA) [(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Exploratory-Data-Analysis-%28EDA%29.ipynb)
 
 This part of the project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the end of the year **2020**. 
 
@@ -8,7 +8,7 @@ This project focuses on bank stocks and see how they progressed throughout the '
 
 Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
-#### Libraries used:
+#### 🔧Libraries used:
 * For processing data:
     * numpy
     * pandas
@@ -17,7 +17,7 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
     * seaborn
     * pandas visualization
 
-#### List of Bank:
+#### 🏧List of Bank:
 1. State Bank of India = [SBIN.NS](https://in.finance.yahoo.com/quote/SBIN.NS?p=SBIN.NS&.tsrc=fin-srch)      
 2. HDFC Bank = [HDFCBANK.NS](https://in.finance.yahoo.com/quote/HDFCBANK.NS?p=HDFCBANK.NS&.tsrc=fin-srch)
 3. Axis Bank = [AXISBANK.NS](https://in.finance.yahoo.com/quote/AXISBANK.NS?p=AXISBANK.NS&.tsrc=fin-srch)
@@ -28,7 +28,7 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 8. Yes Bank = [YESBANK.NS](https://in.finance.yahoo.com/quote/YESBANK.NS?p=YESBANK.NS&.tsrc=fin-srch)
 
 
-## Conclusion From Analysis:
+## 💡Conclusion From Analysis:
 * **It has seen that 'March 2020' have the worst returns for most of the banks. Reason behind this is the [2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash).**
 * **It can also be observed that 'October 2008' also have the worst returns for some banks.
 Reason behind this is the [2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes).**
@@ -36,7 +36,7 @@ Reason behind this is the [2008 financial crisis](https://www.history.com/news/2
 * **Punjab National Bank and Bank of Baroda stocks started to fall from early 2018.**
 * **Kotak Mahindra Bank stocks show the best growth over other banks.**
 
-# Part 2: Prediction-of-Stock-Returns
+# Part 2: 💸Prediction-of-Stock-Returns
 
 1. Stock Prediction with [Linear Regression](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-%28Linear-Regression%29.ipynb)
 2. Stock Prediction with [Support Vector Machine](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-%28Support-Vector-Regressor%29.ipynb)
