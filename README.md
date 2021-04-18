@@ -1,4 +1,4 @@
-# 💹Financial Analysis and the Prediction of Stock Returns💰
+# 💹Financial Analysis and the Prediction of Stock Returns
 
 # Part 1: 🔎Exploratory-Data-Analysis-(EDA) [(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Exploratory-Data-Analysis-%28EDA%29.ipynb)
 
