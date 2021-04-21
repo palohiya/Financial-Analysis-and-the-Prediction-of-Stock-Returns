@@ -4,7 +4,7 @@
 
 This part of the project focuses on exploratory data analysis of Indian bank stock prices from the year **2006** to the end of the year **2020**. 
 
-This project focuses on bank stocks and see how they progressed throughout the '[2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes)' to the end of 2020 and during '[2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash)'.
+This project focuses on bank stocks and sees how they progressed throughout the '[2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes)' to the end of 2020 and during the '[2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash)'.
 
 Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
@@ -29,17 +29,29 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
 
 ## 💡Conclusion From Analysis:
-* **It has seen that 'March 2020' have the worst returns for most of the banks. Reason behind this is the [2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash).**
-* **It can also be observed that 'October 2008' also have the worst returns for some banks.
-Reason behind this is the [2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes).**
-* **Yes Bank stocks would be classified as to be the riskiest over the entire period. Although it shows good growth from the start of 2014 till the end of 2018, but then the stocks started to fall.**
+* **It has seen that 'March 2020' have the worst returns for most of the banks. The reason behind this is the [2020 Stock Market Crash also known as Coronavirus Crash](https://en.wikipedia.org/wiki/2020_stock_market_crash).**
+* **It can also be observed that 'October 2008' also have the worst returns for some banks. The reason behind this is the [2008 financial crisis](https://www.history.com/news/2008-financial-crisis-causes).**
+* **`Yes Bank` stocks would be classified as to be the riskiest over the entire period. Although it shows good growth from the start of 2014 till the end of 2018, then the stocks started to fall.**
 * **Punjab National Bank and Bank of Baroda stocks started to fall from early 2018.**
-* **Kotak Mahindra Bank stocks show the best growth over other banks.**
+* **`Kotak Mahindra Bank` stocks show the best growth over other banks.**
 
 # Part 2: 💸Prediction-of-Stock-Returns
 
-1. Stock Prediction with [Linear Regression](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-%28Linear-Regression%29.ipynb)
-2. Stock Prediction with [Support Vector Machine](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-%28Support-Vector-Regressor%29.ipynb)
-3. Stock Prediction with [Random Forest](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis/blob/master/Stock-Prediction-%28Random-Forest-Regressor%29.ipynb)
+>**Let's analyze the data of `Kotak Mahindra Bank` for predicting the stock returns, as it shows the best growth over other banks.**
 
-**In Progress...**
+**Machine Learning Models:**[(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis-and-the-Prediction-of-Stock-Returns/blob/master/Prediction-of-Stock-Returns-with-Machine-Learning-Models.ipynb)
+
+    1. Linear Regression
+    2. Random Forest Regression
+    3. Support Vector Machine
+    4. Bayesian Ridge Regression
+    5. Gradient Boosting Regression
+
+**Recurrent Neural Network Model:**[(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis-and-the-Prediction-of-Stock-Returns/blob/master/Prediction-of-Stock-Returns-with-Recurrent-Neural-Network.ipynb)
+
+    1. Long Short Term Memory (LSTM)
+
+## 💡Conclusion After Evaluation:
+* **After evaluating it is found that the `Bayesian Ridge Regression` model works best among the evaluated machine learning models.**
+
+* **The best model to predict the stock price is the `Long Short Term Memory (LSTM)` among all of the evaluated models.**
