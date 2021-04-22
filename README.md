@@ -9,10 +9,9 @@ This project focuses on bank stocks and sees how they progressed throughout the 
 Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
 #### 🔧Libraries used:
-* For processing data:
+* For data analysis:
     * numpy
     * pandas
-* For visualizing data:
     * matplotlib
     * seaborn
     * pandas visualization
@@ -37,9 +36,22 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
 
 # Part 2: 💸Prediction-of-Stock-Returns
 
+This part of the project focuses on predicting the stock returns of Indian Banks with different types of Machine Learning estimators.
+
+Evaluate which machine learning estimator is best for finding the stock returns.
+
+#### 🔧Libraries used:
+* For pre-processing and modelling data:
+    * numpy
+    * pandas
+    * matplotlib
+    * scikit-learn (sklearn)
+    * tensorflow
+    * keras
+
 >**Let's analyze the data of `Kotak Mahindra Bank` for predicting the stock returns, as it shows the best growth over other banks.**
 
-**Machine Learning Models:**[(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis-and-the-Prediction-of-Stock-Returns/blob/master/Prediction-of-Stock-Returns-with-Machine-Learning-Models.ipynb)
+**Machine Learning Models: *[(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis-and-the-Prediction-of-Stock-Returns/blob/master/Prediction-of-Stock-Returns-with-Machine-Learning-Models.ipynb)***
 
     1. Linear Regression
     2. Random Forest Regression
@@ -47,11 +59,11 @@ Data collected from [Yahoo Finance](https://in.finance.yahoo.com/)
     4. Bayesian Ridge Regression
     5. Gradient Boosting Regression
 
-**Recurrent Neural Network Model:**[(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis-and-the-Prediction-of-Stock-Returns/blob/master/Prediction-of-Stock-Returns-with-Recurrent-Neural-Network.ipynb)
+**Recurrent Neural Network Model: *[(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis-and-the-Prediction-of-Stock-Returns/blob/master/Prediction-of-Stock-Returns-with-Recurrent-Neural-Network.ipynb)***
 
     1. Long Short Term Memory (LSTM)
 
 ## 💡Conclusion After Evaluation:
-* **After evaluating it is found that the `Bayesian Ridge Regression` model works best among the evaluated machine learning models.**
+* **After evaluation, it is found that both `Linear Regression` and `Bayesian Ridge Regression` are almost similar while predicting the stock price.**
 
 * **The best model to predict the stock price is the `Long Short Term Memory (LSTM)` among all of the evaluated models.**
