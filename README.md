@@ -61,9 +61,9 @@ Evaluate which machine learning estimator is best for finding the stock returns.
 
 **Recurrent Neural Network Model: *[(nbviewer link)](https://nbviewer.jupyter.org/github/Madhur6234/Financial-Analysis-and-the-Prediction-of-Stock-Returns/blob/master/Prediction-of-Stock-Returns-with-Recurrent-Neural-Network.ipynb)***
 
-    1. Long Short Term Memory (LSTM)
+    1. Long Short-Term Memory (LSTM)
 
 ## 💡Conclusion After Evaluation:
 * **After evaluation, it is found that both `Linear Regression` and `Bayesian Ridge Regression` are almost similar while predicting the stock price.**
 
-* **The best model to predict the stock price is the `Long Short Term Memory (LSTM)` among all of the evaluated models.**
+* **The best model to predict the stock price is the `Long Short-Term Memory (LSTM)` among all of the evaluated models.**
